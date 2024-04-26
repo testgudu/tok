@@ -2,5 +2,5 @@
   "name": "Test Cat",
   "symbol": "TCAT",
   "description": "Just a test",
-  "image": "https://github.com/testgudu/tok/blob/main/cat.jpg"
+  "image": "https://raw.githubusercontent.com/testgudu/tok/main/cat.jpg"
 }
